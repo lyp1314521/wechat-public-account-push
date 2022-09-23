@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "mtSmMyMIA8tE75czou_LSrcnRr55wz2A7tcjDgUxWrc",
+      useTemplateId: "",
       // 所在省份
       province: "江苏",
       // 所在城市
@@ -95,15 +95,15 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      name: "赵玉蓉",
+      id: "wxa338314959365907",
+      useTemplateId: "mtSmMyMIA8tE75czou_LSrcnRr55wz2A7tcjDgUxWrc",
+      province: "江苏",
+      city: "南京",
+      horoscopeDate: '11-14',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
-      festivals: [],
+      festivals: [{"type": "浅浅的生日", "name": "赵玉蓉", "year": "1998", "date": "11-14"},],
       customizedDateList: []
     },
     {
